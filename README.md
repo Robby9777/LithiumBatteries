@@ -4,10 +4,8 @@ Upgrades are unlocked in the tech tree in two tiers, and a third tier if some co
 
 Dependencies:
 [Module Manager](https://github.com/sarbian/ModuleManager).
+
 [B9PartSwitch](https://github.com/blowfishpro/B9PartSwitch?tab=readme-ov-file).
 
 Supports:
-[Restock+]()
-[Near Future Electrical](https://github.com/post-kerbin-mining-corporation/NearFutureElectrical)
-[Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
-[Near Future Exploration](https://github.com/post-kerbin-mining-corporation/NearFutureExploration)
+[Restock+](https://github.com/PorktoberRevolution/ReStocked), [Near Future Electrical](https://github.com/post-kerbin-mining-corporation/NearFutureElectrical), [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles), [Near Future Exploration](https://github.com/post-kerbin-mining-corporation/NearFutureExploration).
