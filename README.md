@@ -7,3 +7,6 @@ Required Dependencies:
 
 Supported Mods:
 [Restock+](https://github.com/PorktoberRevolution/ReStocked), [Near Future Electrical](https://github.com/post-kerbin-mining-corporation/NearFutureElectrical), [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles), [Near Future Exploration](https://github.com/post-kerbin-mining-corporation/NearFutureExploration).
+
+Installation:
+Place the GameData folder inside of your game directory, overwrite files if asked to.
